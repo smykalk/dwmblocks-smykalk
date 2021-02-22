@@ -50,7 +50,7 @@ static Block blocks[] = {
         { PATH("volume-block"),         PATH("volume-block-click"),      0,             3},
         { PATH("bright-block"),         NULL,                            0,             1},
         { PATH("bat-block"),            NULL,                           60,             0},
-        { PATH("kblayout-block"),       NULL,                            1,             2},
+        { PATH("kblayout-block"),       NULL,                            0,             2},
         { PATH("time-block"),           NULL,                           60,             0},
         { NULL } /* just to mark the end of the array */
 };
